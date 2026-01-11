@@ -10,10 +10,10 @@ Next to my job I also enjoy fiddling around with smaller software projects that 
 
 Languages:
 
-- current focus: Dart, TypeScript/JavaScript, HTML/CSS
-- other stuff: Kotlin, C#/Java, Python
+- current focus: Dart
+- other stuff: Kotlin, TypeScript/JavaScript, HTML/CSS, C#/Java, Python
 
 Frameworks:
 
-- most beloved: Flutter, React
-- other stuff: Ionic/React, .NET/WPF
+- most beloved: Flutter
+- other stuff: React, Ionic/React, .NET/WPF
